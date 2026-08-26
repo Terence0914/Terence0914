@@ -35,7 +35,8 @@ Interested in AI agent, AI infra, Kaggle, turning ideas into useful products.
       </p>
       <p align="left">
         <strong>💼 Internship &amp; Research Prep</strong><br>
-        Practice LeetCode, review LLM fundamentals, and actively pursue internships or research opportunities that could lead to a publication.
+        Preparing for internships through LeetCode and LLM fundamentals.<br>
+        Following industry technical reports and reproducing promising ideas with an eye toward publishable research.
       </p>
     </td>
     <td width="36%" align="center" valign="middle">
