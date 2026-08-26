@@ -34,8 +34,8 @@ Interested in AI agent, AI infra, Kaggle, turning ideas into useful products.
         Survive in this semester.
       </p>
       <p align="left">
-        <strong>💼 Internship Prep</strong><br>
-        Practice LeetCode, review LLM fundamentals, and actively pursue internships.
+        <strong>💼 Internship &amp; Research Prep</strong><br>
+        Practice LeetCode, review LLM fundamentals, and actively pursue internships or research opportunities that could lead to a publication.
       </p>
     </td>
     <td width="36%" align="center" valign="middle">
