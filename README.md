@@ -6,6 +6,13 @@ Interested in AI agent, AI infra, Kaggle, turning ideas into useful products.
 
 <br>
 
+<p>
+  <a href="https://terence0914.github.io/Terence_note.github.io/"><strong>📚 Paper Deep Dives ↗</strong></a><br>
+  <em>A collection of research papers I've read closely — more updates whenever time allows.</em>
+</p>
+
+<br>
+
 <code>AI Agent</code>&nbsp;&nbsp;<code>AI Infra</code>&nbsp;&nbsp;<code>Kaggle</code>&nbsp;&nbsp;<code>Useful Products</code>
 
 <br><br>
