@@ -12,17 +12,27 @@ Interested in AI agent, AI infra, Kaggle, turning ideas into useful products.
 
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <h3>Plans for the Next Few Months</h3>
-      <ol align="left">
-        <li>Aim for a Kaggle silver medal.</li>
-        <li>Build an LLM from scratch based on Stanford CS336, with the goal of reproducing Kimi's <em>Attention Residuals</em>.</li>
-        <li>Survive the Fall 2026 semester.</li>
-        <li>Practice LeetCode, review LLM interview fundamentals, and actively look for internships.</li>
-      </ol>
+    <td width="64%" valign="top">
+      <h3 align="left">🎯 What's Next</h3>
+      <p align="left">
+        <strong>🥈 Kaggle Silver</strong><br>
+        Work toward earning a Kaggle silver medal.
+      </p>
+      <p align="left">
+        <strong>🧠 Build &amp; Reproduce</strong><br>
+        Rebuild an LLM with Stanford CS336 and reproduce Kimi's <em>Attention Residuals</em>.
+      </p>
+      <p align="left">
+        <strong>📚 Fall 2026</strong><br>
+        Survive the semester, one assignment at a time.
+      </p>
+      <p align="left">
+        <strong>💼 Internship Prep</strong><br>
+        Practice LeetCode, review LLM fundamentals, and actively pursue internships.
+      </p>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./assets/avatar.jpg" alt="Terence avatar" width="300">
+    <td width="36%" align="center" valign="middle">
+      <img src="./assets/avatar.jpg" alt="Terence avatar" width="280">
     </td>
   </tr>
 </table>
