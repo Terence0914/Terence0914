@@ -20,7 +20,7 @@ Interested in AI agent, AI infra, Kaggle, turning ideas into useful products.
       </p>
       <p align="left">
         <strong>🧠 Build &amp; Reproduce</strong><br>
-        Rebuild an LLM with Stanford CS336 and reproduce Kimi's <em>Attention Residuals</em>.
+        Rebuild an LLM with Stanford CS336 and reproduce Moonshot AI's <em>Attention Residuals</em>.
       </p>
       <p align="left">
         <strong>📚 Fall 2026</strong><br>
