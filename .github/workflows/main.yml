@@ -1,19 +1,21 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # Run automatically once a day.
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 0 * * *"
+
+  # Allow the workflow to be run manually.
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # Run when the profile README is updated.
   push:
     branches:
-    - master
-    
-  
+      - main
+
+permissions:
+  contents: write
+
 
 jobs:
   generate:
