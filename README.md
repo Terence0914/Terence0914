@@ -24,7 +24,7 @@ Interested in AI agent, AI infra, Kaggle, turning ideas into useful products.
       </p>
       <p align="left">
         <strong>📚 Fall 2026</strong><br>
-        Survive the semester, one assignment at a time.
+        Survive in this semester.
       </p>
       <p align="left">
         <strong>💼 Internship Prep</strong><br>
