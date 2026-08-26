@@ -10,7 +10,22 @@ Interested in AI agent, AI infra, Kaggle, turning ideas into useful products.
 
 <br><br>
 
-<img src="./assets/avatar.jpg" alt="Terence avatar" width="300">
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>Plans for the Next Few Months</h3>
+      <ol align="left">
+        <li>Aim for a Kaggle silver medal.</li>
+        <li>Build an LLM from scratch based on Stanford CS336, with the goal of reproducing Kimi's <em>Attention Residuals</em>.</li>
+        <li>Survive the Fall 2026 semester.</li>
+        <li>Practice LeetCode, review LLM interview fundamentals, and actively look for internships.</li>
+      </ol>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/avatar.jpg" alt="Terence avatar" width="300">
+    </td>
+  </tr>
+</table>
 
 </div>
 
